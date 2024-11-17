@@ -1,2 +1,2 @@
 # TCC_2024
-Trabalho de Conclusão de Curso - Matheus Pires Leonardi - 2024 - "MÉTODO DE AVALIAÇÃO DA ESTABILIDADE POSTURAL EM PESSOAS COM TRANSTORNOS DE EQUILÍBRIO"
+O presente repositório contém todas as planilhas utilizadas durante o desenvolvimento do Trabalho de Conclusão de Curso do aluno Matheus Pires Leonardi, publicado em 2024, intitulado "MÉTODO DE AVALIAÇÃO DA ESTABILIDADE POSTURAL EM PESSOAS COM TRANSTORNOS DE EQUILÍBRIO", bem como o código desenvolvido em linguagem Python utilizando a versão Python 3.12.3, e um vídeo demonstrativo do software em execução, também disponível no seguinte link: https://youtu.be/PYBhs5BXBho
